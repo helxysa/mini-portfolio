@@ -1,0 +1,17 @@
+/*sempre resetar todas as tags*/
+* {
+    margin: 0; /*espaçamentos externos*/
+    padding: 0;  /*espaçamento internos*/
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none; /*decoracao do texto*/
+    color: #000;
+}
+
+
